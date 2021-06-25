@@ -1,0 +1,9 @@
+#img-bg {
+    background-image: url('/../assets/images/background\ start\ game.jpg');
+
+    min-height: 627px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 85%;
+}
