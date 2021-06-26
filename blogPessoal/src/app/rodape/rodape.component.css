@@ -1,0 +1,41 @@
+.bg-blue{
+    background-color: #0a45ace3;
+}
+
+.text-black{
+    color: #050505;
+}
+
+ul.social-network{
+    list-style: none;
+    padding: 0;
+}
+
+ul.social-network li {
+    display: inline;
+    margin: 0;
+    padding: 4px;
+}
+
+.cor-git {
+    font-size: 30pt;
+    color: rgb(255, 255, 255);
+}
+
+.fa {
+    padding: 4px;
+}
+
+.cor-linkedin {
+    font-size: 30pt;
+    color: #ffffff;
+}
+
+.fa-linkedin-square:hover {
+    color: #0e8ac4 ; 
+}
+
+
+.fa-github:hover {
+    color: #333;
+} 

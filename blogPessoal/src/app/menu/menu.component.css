@@ -1,0 +1,15 @@
+.bg-blue{
+    background-color: #0a45ace3;
+}
+
+.fontsize-16{
+    font-size: 16pt;
+}
+
+.text-black{
+    color: #050505;
+}
+
+a {
+    cursor: pointer;
+}
