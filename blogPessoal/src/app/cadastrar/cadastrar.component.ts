@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import { User } from '../model/user';
 import { AuthService } from '../service/auth.service';
-import { UserLogin } from '../model/UserLogin';
+//import { UserLogin } from '../model/UserLogin';
 
 @Component({
   selector: 'app-cadastrar',
@@ -22,7 +22,6 @@ export class CadastrarComponent implements OnInit {
 
   ngOnInit() {
     window.scroll(0,0)
-
   }
 
   confirmSenha(event: any) {
