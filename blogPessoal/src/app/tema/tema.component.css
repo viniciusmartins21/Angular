@@ -1,0 +1,19 @@
+.bg-red{
+    background-color: #D7361A;
+    opacity: 95%;
+}
+
+.text-black{
+    color: rgb(14, 13, 13);
+}
+
+.btn-green {
+    color: #111111;
+    background-color: #90D200;
+ }
+ 
+ .btn-outline-dark:hover{
+     color: #111111;
+     background-color: #90D200;
+ 
+ }

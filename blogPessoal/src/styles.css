@@ -3,3 +3,22 @@ html
 {
     scroll-behavior: smooth ;
 }
+
+.bg-red{
+    background-color: #D7361A;
+    opacity: 95%;
+}
+
+.text-black{
+    color: rgb(14, 13, 13);
+}
+
+.fs-54{
+    font-size: 52pt;
+}
+
+.fs-17{
+    font-size: 17pt;
+}
+
+
