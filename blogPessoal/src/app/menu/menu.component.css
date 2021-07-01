@@ -1,5 +1,6 @@
-.bg-blue{
-    background-color: #0a45ace3;
+.bg-red{
+    background-color: #D7361A;
+    opacity: 95%;
 }
 
 .fontsize-16{
@@ -8,6 +9,7 @@
 
 .text-black{
     color: #050505;
+    opacity: 95%;
 }
 
 a {

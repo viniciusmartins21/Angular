@@ -1,5 +1,12 @@
-.bg-blue{
-    background-color: #0a45ace3;
+.bg-red{
+    background-color: #D7361A;
+    opacity: 95%;
+}
+
+.bg-reddark {
+    background-color: #da472d ;
+    opacity: 85%;
+
 }
 
 .text-black{
